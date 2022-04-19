@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2? family= Beau+Rivage & display=swap');
+body{
+	background-color:#fdf5e6 ;
+	max-height: 1500px;
+}
+.boxflex, .boxflex2{
+	display: flex;
+
+	justify-content: space-around;
+	align-items: stretch;
+	flex-grow:1;
+	margin-right: auto;
+}
+.headern1{
+	position: relative;
+	top: 20px;
+	left: 380px;
+	font-size:18px ;
+	font-weight: bold;
+	font-family:"Beau Rivage" ,sans-serif;
+	color: #000;
+}
+.headern2{
+	position: relative;
+	
+	left: 1280px;
+	font-size:18px ;
+	font-weight: bold;
+	font-family:"Beau Rivage" ,sans-serif;
+	color: #000;
+}
+.textn1{
+	width: 300px;
+	font-size:18px ;
+	font-family:"Beau Rivage" ,sans-serif;
+    position: relative;
+    left: 250px;
+    top: 10px;
+}
+.bold{
+	font-weight: bold;}
+.textn2{
+	width: 450px;
+	font-size:18px ;
+	font-family:"Beau Rivage" ,sans-serif;
+    position: relative;
+   left:1200px;
+    bottom: 30px;
+    text-align: justify;}
+.textn4{
+	width: 450px;
+	font-size:18px ;
+	font-family:"Beau Rivage" ,sans-serif;
+    position: relative;
+   left:1200px;
+    bottom: 10px;
+    text-align: justify;}
+.textn3{
+	width: 450px;
+	font-size:18px ;
+	font-family:"Beau Rivage" ,sans-serif;
+    position: relative;
+   left:250px;
+   top: 5px;
+   
+    text-align: justify;}
+.headern3{
+	position: relative;
+	top: 20px;
+	left: 380px;
+	font-size:18px ;
+	font-weight: bold;
+	font-family:"Beau Rivage" ,sans-serif;
+	color: #000;
+
+}
+.headern4{
+	position: relative;
+	
+	left: 1330px;
+	font-weight: bold;
+	font-size:18px ;
+	font-family:"Beau Rivage" ,sans-serif;
+	color: #000;
+}

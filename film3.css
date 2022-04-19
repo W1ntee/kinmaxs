@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2? family= Beau+Rivage & display=swap');
+body{
+	background-color:#fdf5e6 ;
+	max-height: 1500px;
+}
+.boxf1{
+	display: flex;
+	justify-content: space-around;
+	align-items: stretch;
+	flex-grow:1;
+	margin-right: auto;
+}
+.textf1{
+	width: 300px;
+	font-size:16px ;
+	font-family:"Beau Rivage" ,sans-serif;
+	position: relative;
+	right: 660px;
+}
+
+.img1, .textf1 {
+	position: relative;
+	top: 20px;
+
+}
+.img1{
+	position: relative;
+	left: 10px;
+
+}
+.headerf1{
+	position: relative;
+	top: 20px;
+	left: 350px;
+	font-size:18px ;
+	font-weight: bold;
+	font-family:"Beau Rivage" ,sans-serif;
+	color: #000;
+
+}
+.aqua{
+	color: #30d5c8;
+}
+.bold{
+	font-weight: bold;
+}
+.line{
+	border-bottom: 3px solid #000;
+	width: 300px;
+	position: relative;
+	top: 190px;
+	left: 580px;
+}
+.description{
+	position: relative;
+	left: 350px;
+	width: 1100px;
+	text-align: justify;
+	font-size:16px ;
+	
+	font-family:"Beau Rivage" ,sans-serif;
+}
+
+.vid{
+	position: relative;
+	left: 200px;
+}
+.pr{
+	position: relative;
+	top: 200px;
+	left: 580px;
+	font-size: 18px;
+
+}

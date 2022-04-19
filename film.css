@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2? family= Beau+Rivage & display=swap');
+body{
+	background-color:#fdf5e6 ;
+	max-height: 1500px;
+}
+.boxf1{
+	display: flex;
+	justify-content: space-around;
+	align-items: stretch;
+	flex-grow:1;
+	margin-right: auto;
+}
+.textf1{
+	width: 300px;
+	font-size:16px ;
+	font-family:"Beau Rivage" ,sans-serif;
+}
+.textf2{
+	width: 300px;
+	font-size:16px ;
+	font-family:"Beau Rivage" ,sans-serif;
+position: relative;
+	right: 200px;}
+.img1, .textf1 ,  .textf2 {
+	position: relative;
+	top: 20px;
+
+}
+.img1{
+	position: relative;
+	left: 200px;
+
+}
+.headerf1{
+	position: relative;
+	top: 20px;
+	left: 250px;
+	font-size:18px ;
+	font-weight: bold;
+	font-family:"Beau Rivage" ,sans-serif;
+	color: #000;
+
+}
+.headerf2{
+	position: relative;
+	
+	left: 1150px;
+	font-weight: bold;
+	font-size:18px ;
+	font-family:"Beau Rivage" ,sans-serif;
+	color: #000;
+}
+.aqua{
+	color: #30d5c8;
+}
+.bold{
+	font-weight: bold;
+}
+.img2{
+	position: relative;
+	top: 20px;
+}
+.boxf2{
+	display: flex;
+	justify-content: space-around;
+	align-items: stretch;
+	flex-grow:1;
+	margin-right: auto;
+	position: relative;
+	
+}
+.textf3{
+	width: 300px;
+	font-size:16px ;
+	font-family:"Beau Rivage" ,sans-serif;
+}
+.textf4{
+	width: 300px;
+	font-size:16px ;
+	font-family:"Beau Rivage" ,sans-serif;
+position: relative;
+	right: 200px;}
+.img3, .textf3 ,  .textf4 {
+	position: relative;
+	top: 40px;
+
+}
+.img3{
+	position: relative;
+	left: 200px;
+	top: 40px;
+
+
+}
+.img4{
+position: relative;
+	
+	top: 40px;
+}
+.headerf3{
+	position: relative;
+	top: 60px;
+	left: 300px;
+	font-size:18px ;
+	font-weight: bold;
+	font-family:"Beau Rivage" ,sans-serif;
+	color: #000;
+
+}
+.headerf4{
+	position: relative;
+	top: 30px;
+	left: 1080px;
+	font-weight: bold;
+	font-size:18px ;
+	font-family:"Beau Rivage" ,sans-serif;
+	color: #000;
+}
